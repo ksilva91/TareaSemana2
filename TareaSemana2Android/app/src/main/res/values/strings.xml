@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App Android</string>
+    <string name="name">Nombre completo</string>
+    <string name="phoneNumber">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="description">Descripción Contacto</string>
+    <string name="born_date">Fecha de nacimiento</string>
+    <string name="next_button">Siguiente</string>
+
+
+    <string name="title_activity_confirm">Confirmar Datos</string>
+    <string name="name_activity_confirm">Nombre:</string>
+    <string name="phoneNumber_activity_confirm">Teléfono:</string>
+    <string name="email_activity_confirm">Email:</string>
+    <string name="description_activity_confirm">Descripción:</string>
+    <string name="born_date_activity_confirm">Fecha nacimiento:</string>
+    <string name="text_button">Editar Datos</string>
+
+    <string name="msg_name">El nombre no puede quedar vacío</string>
+    <string name="msg_phone">El teléfono no puede quedar vacío</string>
+    <string name="msg_email">El email no puede quedar vacío</string>
+    <string name="msg_description">La descripción no puede quedar vacía</string>
+</resources>
